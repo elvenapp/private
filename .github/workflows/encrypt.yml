@@ -17,7 +17,7 @@ jobs:
 
       - name: Encrypt file
         run: |
-          key="keyiselven"
+          key="keyiselven123456"
           openssl enc -aes-256-cbc -salt -in config.json -out encrypt_config -K "$(echo -n "$key" | xxd -p)" -iv "0000000000000000"
 
       - name: Commit encrypted file

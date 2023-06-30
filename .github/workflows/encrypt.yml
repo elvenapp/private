@@ -18,7 +18,7 @@ jobs:
       - name: Encrypt file
         run: |
           key="keyiselven123456"
-          openssl enc -aes-256-cbc -in config.json -out encrypt_config -pass pass:keyiselven123456 -nosalt -hex
+          openssl enc -aes-256-cbc -in config.json -out encrypt_config -pass pass:keyiselven123456 -nosalt
 
       - name: Commit encrypted file
         uses: EndBug/add-and-commit@v7

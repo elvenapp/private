@@ -16,7 +16,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install pycryptodome
-          python encrypt.py
+          python encrypt.py ${{ secrets.AES_KEY }}
 
       - name: Commit encrypted file
         uses: EndBug/add-and-commit@v7

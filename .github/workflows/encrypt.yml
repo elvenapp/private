@@ -67,9 +67,7 @@ jobs:
               # 重新编码
               result = str(base64.b64encode(encrypt_bytes), encoding='utf-8')
               return result
-
-          encrypted_data = encryptAES(plaintext, key, iv)
-
+              
           with open('config.json','r') as c:
               config = c.read()
               with open('encrypt_config', 'w') as f:

@@ -1,6 +1,7 @@
 import base64
 import os
 from Crypto.Cipher import AES
+import sys
 
 def pkcs7unpadding(text):
     length = len(text)
@@ -22,7 +23,7 @@ def decrypt(key, content):
     result = pkcs7unpadding(result)
     return result
 
-aes_key = '5a04ec902686fb05'
+aes_key = sys.argv[1]
 
 def pkcs7padding(text):
     bs = AES.block_size  # 16

@@ -18,7 +18,7 @@ jobs:
       - name: Encrypt file
         run: |
           key="keyiselven123456"
-          openssl enc -aes-256-cbc -salt -in config.json -out encrypt_config -K "$(echo -n "$key" | xxd -p)" -iv "keyiselven123456"
+          openssl enc -aes-256-cbc -salt -in config.json -out encrypt_config -K "$(echo -n "$key" | xxd -p)" -iv "5a04ec902686fb05a6b7a338b6e07760"
 
       - name: Commit encrypted file
         uses: EndBug/add-and-commit@v7

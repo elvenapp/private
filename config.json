@@ -1,194 +1,195 @@
 {
-  "version":10000,
-  "versionName":"1.0.0",
-  "bookSource":[
-    {
-      "name":"一程",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/59.json",
-      "badge":115
-    },{
-      "name":"精选书源",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/57.json",
-      "badge":109
-    },{
-      "name":"秀儿",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/47.json",
-      "badge":54
-    },{
-      "name":"水幽临渊",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/46.json",
-      "badge":446
-    },{
-      "name":"破冰",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/44.json",
-      "badge":91
-    },{
-      "name":"精品",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/41.json",
-      "badge":112
-    },{
-      "name":"☣️精选senhora",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/37.json",
-      "badge":334
-    },{
-      "name":"精品反复校验",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/35.json",
-      "badge":1033
-    },{
-      "name":"精品校验",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/31.json",
-      "badge":2238
-    },{
-      "name":"有声",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/27.json",
-      "badge":23
-    },{
-      "name":"锤子小说",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/26.json",
-      "badge":366
-    },{
-      "name":"海棠言情",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/25.json",
-      "badge":10
-    },{
-      "name":"同人小说合集",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/11.json",
-      "badge":7
-    },{
-      "name":"海棠言情",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/25.json",
-      "badge":10
-    },{
-      "name":"纯净",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/9.json",
-      "badge":442
-    },{
-      "name":"专属漫画",
-      "url":"https://www.yckceo.com/yuedu/shuyuans/json/id/48.json",
-      "badge":30
-    },{
-      "name":"haxc漫画",
-      "url":"https://fastly.jsdelivr.net/gh/haxc/book@main/bookSource.json",
-      "badge":160
-    },{
-      "name":"haxc漫画(备用)",
-      "url":"https://ghproxy.com/https://raw.githubusercontent.com/haxc/book/main/bookSource.json",
-      "badge":160
-    }
-  ],
-  "rssSource":[
-    {
-      "name":"精品",
-      "url":"https://www.yckceo.com/yuedu/rsss/json/id/5.json"
-    }
-  ],
-  "videoSource":[{
-		"name": "唐三",
-		"url": "https://gh.t4tv.hz.cz/newtang.bmp"
-	},
-	{
-		"name": "Fongmi",
-		"url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json"
-	},
-	{
-		"name": "俊于",
-		"url": "http://home.jundie.top:81/top98.json"
-	},
-	{
-		"name": "饭太硬",
-		"url": "http://饭太硬.top/tv"
-	},
-	{
-		"name": "肥猫",
-		"url": "http://我不是.肥猫.love:63/接口禁止贩卖"
-	},
-	{
-		"name": "霜辉月明py",
-		"url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"
-	},
-	{
-		"name": "小米小爆脾气",
-		"url": "http://xhww.fun:63/小米/DEMO.json"
-	},
-	{
-		"name": "小雅",
-		"url": "http://drpy.site/js1"
-	},
-	{
-		"name": "菜妮丝",
-		"url": "https://tvbox.cainisi.cf"
-	},
-	{
-		"name": "香雅情",
-		"url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json"
-	},
-	{
-		"name": "运输车",
-		"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json"
-	},
-	{
-		"name": "多多",
-		"url": "https://yydsys.top/duo"
-	},
-	{
-		"name": "南风",
-		"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
-	},
-	{
-		"name": "神器",
-		"url": "https://神器每日推送.tk/pz.json"
-	},
-	{
-		"name": "巧技",
-		"url": "http://pandown.pro/tvbox/tvbox.json"
-	},
-	{
-		"name": "那里花开",
-		"url": "http://hz752.love:63/tk.json"
-	},
-	{
-		"name": "吾爱有三",
-		"url": "http://52bsj.vip:98/0805"
-	},
-	{
-		"name": "潇洒",
-		"url": "https://download.kstore.space/download/2863/01.txt"
-	},
-	{
-		"name": "佰欣园",
-		"url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt"
-	},
-	{
-		"name": "胖虎",
-		"url": "https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"
-	},
-	{
-		"name": "云星日记",
-		"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
-	},
-	{
-		"name": "Yoursmile7",
-		"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
-	},
-	{
-		"name": "Ray",
-		"url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json"
-	},
-	{
-		"name": "甜蜜",
-		"url": "https://kebedd69.github.io/TVbox-interface/py甜蜜.json"
-	},
-	{
-		"name": "月光宝盒",
-		"url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒"
-	},
-	{
-		"name": "好人",
-		"url": "https://xhdwc.tk/0"
-	}
-],
-  "otherApk":[{
-    "name":"漫画",
-    "url":"https://downloadurl.com/apk.apk"
-  }]
+	"version": 10000,
+	"versionName": "1.0.0",
+	"forceUpdate": false,
+	"downloadUrl": "",
+	"updateTitle": "",
+	"updateContent": "",
+	"forceExit":false,
+	"bookSource": [{
+		"name": "一程",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/59.json",
+		"badge": 115
+	}, {
+		"name": "精选书源",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/57.json",
+		"badge": 109
+	}, {
+		"name": "秀儿",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/47.json",
+		"badge": 54
+	}, {
+		"name": "水幽临渊",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/46.json",
+		"badge": 446
+	}, {
+		"name": "破冰",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/44.json",
+		"badge": 91
+	}, {
+		"name": "精品",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/41.json",
+		"badge": 112
+	}, {
+		"name": "☣️精选senhora",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/37.json",
+		"badge": 334
+	}, {
+		"name": "精品反复校验",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/35.json",
+		"badge": 1033
+	}, {
+		"name": "精品校验",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/31.json",
+		"badge": 2238
+	}, {
+		"name": "有声",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/27.json",
+		"badge": 23
+	}, {
+		"name": "锤子小说",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/26.json",
+		"badge": 366
+	}, {
+		"name": "海棠言情",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/25.json",
+		"badge": 10
+	}, {
+		"name": "同人小说合集",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/11.json",
+		"badge": 7
+	}, {
+		"name": "海棠言情",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/25.json",
+		"badge": 10
+	}, {
+		"name": "纯净",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/9.json",
+		"badge": 442
+	}, {
+		"name": "专属漫画",
+		"url": "https://www.yckceo.com/yuedu/shuyuans/json/id/48.json",
+		"badge": 30
+	}, {
+		"name": "haxc漫画",
+		"url": "https://fastly.jsdelivr.net/gh/haxc/book@main/bookSource.json",
+		"badge": 160
+	}, {
+		"name": "haxc漫画(备用)",
+		"url": "https://ghproxy.com/https://raw.githubusercontent.com/haxc/book/main/bookSource.json",
+		"badge": 160
+	}],
+	"rssSource": [{
+		"name": "精品",
+		"url": "https://www.yckceo.com/yuedu/rsss/json/id/5.json"
+	}],
+	"videoSource": [{
+			"name": "唐三",
+			"url": "https://gh.t4tv.hz.cz/newtang.bmp"
+		},
+		{
+			"name": "Fongmi",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json"
+		},
+		{
+			"name": "俊于",
+			"url": "http://home.jundie.top:81/top98.json"
+		},
+		{
+			"name": "饭太硬",
+			"url": "http://饭太硬.top/tv"
+		},
+		{
+			"name": "肥猫",
+			"url": "http://我不是.肥猫.love:63/接口禁止贩卖"
+		},
+		{
+			"name": "霜辉月明py",
+			"url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"
+		},
+		{
+			"name": "小米小爆脾气",
+			"url": "http://xhww.fun:63/小米/DEMO.json"
+		},
+		{
+			"name": "小雅",
+			"url": "http://drpy.site/js1"
+		},
+		{
+			"name": "菜妮丝",
+			"url": "https://tvbox.cainisi.cf"
+		},
+		{
+			"name": "香雅情",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json"
+		},
+		{
+			"name": "运输车",
+			"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json"
+		},
+		{
+			"name": "多多",
+			"url": "https://yydsys.top/duo"
+		},
+		{
+			"name": "南风",
+			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+		},
+		{
+			"name": "神器",
+			"url": "https://神器每日推送.tk/pz.json"
+		},
+		{
+			"name": "巧技",
+			"url": "http://pandown.pro/tvbox/tvbox.json"
+		},
+		{
+			"name": "那里花开",
+			"url": "http://hz752.love:63/tk.json"
+		},
+		{
+			"name": "吾爱有三",
+			"url": "http://52bsj.vip:98/0805"
+		},
+		{
+			"name": "潇洒",
+			"url": "https://download.kstore.space/download/2863/01.txt"
+		},
+		{
+			"name": "佰欣园",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt"
+		},
+		{
+			"name": "胖虎",
+			"url": "https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json"
+		},
+		{
+			"name": "云星日记",
+			"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
+		},
+		{
+			"name": "Yoursmile7",
+			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+		},
+		{
+			"name": "Ray",
+			"url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/0.json"
+		},
+		{
+			"name": "甜蜜",
+			"url": "https://kebedd69.github.io/TVbox-interface/py甜蜜.json"
+		},
+		{
+			"name": "月光宝盒",
+			"url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒"
+		},
+		{
+			"name": "好人",
+			"url": "https://xhdwc.tk/0"
+		}
+	],
+	"otherApk": [{
+		"name": "漫画",
+		"url": "https://downloadurl.com/apk.apk"
+	}]
 }

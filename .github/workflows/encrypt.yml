@@ -2,8 +2,8 @@ name: Encrypt File
 
 on:
   push:
-    branches:
-      - hotfix
+    paths:
+      - 'config.json'
 
 jobs:
   encrypt:

@@ -79,10 +79,10 @@
 		"url": "https://ghproxy.com/https://raw.githubusercontent.com/haxc/book/main/bookSource.json",
 		"badge": 160
 	}],
-	"rssSource": [{
+	"rssSource": {
 		"name": "精品",
 		"url": "https://www.yckceo.com/yuedu/rsss/json/id/5.json"
-	}],
+	},
 	"videoSource": [{
 			"name": "XBPQ",
 			"url": "https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json"

@@ -200,8 +200,10 @@
 			"url": "https://xhdwc.tk/0"
 		}
 	],
-	"otherApk": [{
+	"plugins": [{
 		"name": "漫画",
-		"url": "https://downloadurl.com/apk.apk"
+		"url": "https://downloadurl.com/apk.apk",
+		"type":1,
+		"package":"com.xxx"
 	}]
 }

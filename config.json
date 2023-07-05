@@ -202,7 +202,7 @@
 	],
 	"plugins": [{
 		"name": "漫画",
-		"url": "https://www.gitlink.org.cn/api/attachments/424891",
+		"url": "https://www.gitlink.org.cn/api/attachments/424892",
 		"type":1,
 		"pkgName":"eu.kanade.tachiyomi",
 		"apkName":"elven_manga.apk",

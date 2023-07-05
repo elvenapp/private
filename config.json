@@ -202,8 +202,19 @@
 	],
 	"plugins": [{
 		"name": "漫画",
-		"url": "https://downloadurl.com/apk.apk",
+		"url": "https://www.gitlink.org.cn/api/attachments/424891",
 		"type":1,
-		"packageName":"com.xxx"
+		"pkgName":"eu.kanade.tachiyomi",
+		"apkName":"elven_manga.apk",
+		"iconUrl":"https://www.gitlink.org.cn/api/elvenapp/static/raw/manga.png?ref=master",
+		"versionCode":10000
+	},{
+		"name": "福利",
+		"url": "https://behe3.com",
+		"type":2,
+		"pkgName":"",
+		"apkName":"",
+		"iconUrl":"https://aliimg.changba.com/img/20230126145002.png",
+		"versionCode":0
 	}]
 }
